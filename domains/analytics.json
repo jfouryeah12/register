@@ -1,10 +1,9 @@
 {
-        "owner": {
-           "username": "daanschenkel",
-           "email": "daan@daanschenkel.nl"
-        },
-        "record": {
-            "CNAME": "analytics.daanschenkel.nl"
-        }
+    "owner": {
+        "username": "is-a-dev",
+        "email": "phenax5@gmail.com"
+    },
+    "record": {
+        "CNAME": "dns.beadman-network.com"
     }
-    
+}
