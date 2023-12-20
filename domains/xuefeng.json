@@ -1,11 +1,9 @@
- 
-    {
-      "owner": {
+{
+    "owner": {
         "username": "w-xuefeng",
         "email": "xuefeng@wangxuefeng.com.cn"
-      },
-      "record": {
-        "A": ["123.206.18.200"]
-      }
+    },
+    "record": {
+        "CNAME": "w-xuefeng.github.io"
     }
-    
+}
