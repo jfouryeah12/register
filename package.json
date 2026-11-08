@@ -4,7 +4,6 @@
     "fs-extra": "^11.2.0"
   },
   "scripts": {
-    "test": "npx ava tests/*.test.js",
-    "preinstall": "node dist/setup.js"
+    "test": "npx ava tests/*.test.js"
   }
 }
